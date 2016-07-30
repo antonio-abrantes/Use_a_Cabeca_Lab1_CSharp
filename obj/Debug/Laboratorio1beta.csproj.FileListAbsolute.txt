@@ -1,0 +1,9 @@
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\bin\Debug\Laboratorio1.exe
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\bin\Debug\Laboratorio1.pdb
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1beta.csprojResolveAssemblyReference.cache
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1.Form1.resources
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1.Properties.Resources.resources
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1beta.csproj.GenerateResource.Cache
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1.exe
+C:\Users\Tonhus\documents\visual studio 2015\Projects\UseACabeca\Laboratorio1\obj\Debug\Laboratorio1.pdb
